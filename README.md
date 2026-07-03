@@ -1,2 +1,25 @@
-# Student-Grade-Manager
-I recently passed the PCEP certification and built this project to practice my Python skills. I plan to continue improving and expanding it as I learn more about programming.
+# Student Grade Manager
+
+A command-line Python application written in Python.
+
+## Features
+
+- Add students
+- View students
+- Delete students
+- Validate grades (0–100)
+- Validate Y/N input
+
+## Skills Used
+
+- Dictionaries
+- Functions
+- Loops
+- Input validation
+- Conditionals
+
+## Future Improvements
+
+- Search students
+- Save data to a file
+- Calculate average grade
