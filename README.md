@@ -1,25 +1,29 @@
 # Student Grade Manager
 
-A command-line Python application written in Python.
+A console-based Python application for managing student grades.
 
 ## Features
 
 - Add students
-- View students
+- View all students
+- Edit student grades
 - Delete students
-- Validate grades (0–100)
-- Validate Y/N input
+- Calculate the class average
+- Validate user input
+- Automatically save and load data using JSON
 
-## Skills Used
+## Skills Demonstrated
 
-- Dictionaries
+- Python dictionaries
 - Functions
 - Loops
 - Input validation
-- Conditionals
+- File handling
+- JSON serialization
 
 ## Future Improvements
 
-- Search students
-- Save data to a file
-- Calculate average grade
+- Search for students
+- Sort students alphabetically
+- Display highest and lowest grades
+- Graphical user interface (Tkinter)
